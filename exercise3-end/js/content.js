@@ -1,0 +1,1 @@
+let methods = ["map", "filter", "reduce", "reduceRight", "forEach", "every", "some"];
